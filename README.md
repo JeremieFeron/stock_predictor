@@ -4,7 +4,7 @@ A python built stock predicition solution
 
 ## Installation
 
-Download the zip file
+Download the zip file or each file independently
 
 ## Usage
 
