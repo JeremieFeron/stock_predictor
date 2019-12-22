@@ -8,9 +8,11 @@ Download the zip file
 
 ## Usage
 
-Activate the virutal environment 'env':
+Create a virutal environment (assuming using Python/ Mac OS and venv not installed yet:
 ```
-source stock_predictor/env/bin/activate
+python3 -m pip install --user virtualenv
+python3 -m venv env
+source env/bin/activate
 ```
 Install the right packages versions specified in requirements.txt:
 ```
